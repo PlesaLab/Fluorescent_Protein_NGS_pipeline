@@ -55,7 +55,8 @@ Raw PacBio reads (CCS) used in the manuscript:
 1. Place `C1P.6291.fastq.gz` and `C2P.6291.fastq.gz` in the repo root.
 2. Ensure `barcode_extract.py`, `collision.py`, `all_info_csv_to_fasta.py`, `parse_SAM_alignments.py`, `translate.toUpper.v2.aatrim.py`, and references are present.
 3. Run:
-   ```./run_pipeline.sh
+   ```bash
+   ./run_pipeline.sh
    ```
 
 All outputs are written under `analysis_output/` unless noted.
