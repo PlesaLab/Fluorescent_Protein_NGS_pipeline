@@ -7,9 +7,11 @@ This repository contains scripts and a one-shot bash runner to reproduce the NGS
 This pipeline assumes you created your amplicons using primers with the following homology to pEVBC1:
 
 * FWD:
- * TGTGAGCGGATAACAATTTCACACAGGAAACAGCTCATATG
+
+ *TGTGAGCGGATAACAATTTCACACAGGAAACAGCTCATATG*
 * REV:
- * CGAAAAGTGCCACCTGACGTCGTGC
+
+ *CGAAAAGTGCCACCTGACGTCGTGC*
 
 
 ---
